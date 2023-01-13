@@ -45,13 +45,13 @@
 </div
 <div id="stats">
   <h4>Stats:</h4>
+  <div align="center">
     
   ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=pug000&theme=synthwave)
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pug000&show_icons=true&theme=synthwave)
     
-  <div align="center">
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pug000&show_icons=true&theme=synthwave)
   
-   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pug000)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pug000&layout=compact)
     
   </div>
 </div>
